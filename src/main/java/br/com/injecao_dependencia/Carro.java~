@@ -1,0 +1,4 @@
+package br.com.injecao_dependencia;
+
+public class Carro {
+}
